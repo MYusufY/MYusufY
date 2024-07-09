@@ -14,7 +14,8 @@ Im Yusuf, a 13 y.o. 🇹🇷 kid with hundreds of hobbies but no time :)
 - Cubes (2x2x2, 3x3x3, 4x4x4, 3x3x3 Mirror Cube, Megaminx)
 
 ### To Support me
-If you [support](https://buymeacoffee.com/myusuf) me I will be pretty happy ☺️🙃
+If you [support](https://www.patreon.com/Tachion) me I will be pretty happy ☺️🙃
+
 
 ### Contact me
 m.yusuf.yildirim33@gmail.com
