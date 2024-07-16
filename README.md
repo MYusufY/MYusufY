@@ -1,5 +1,5 @@
 ### Hi there 👋
-Im Yusuf, a 13 y.o. 🇹🇷 kid with hundreds of hobbies but no time :)
+Im Yusuf, a 13 y.o. software developer :)
 
 ### Some of my hobbies are:
 - Robotics
