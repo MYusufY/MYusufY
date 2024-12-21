@@ -10,7 +10,7 @@ Im Yusuf, a 13 y.o. software developer :)
 - FPV Drones (i have no money to make one :( )
 - RC/FPV Planes (same thing as FPV Drones lol)
 - 3D Printing (i love my Ender3v2)
-- 3D Designing (im still trying to learn :) )
+- 3D Designing (im still improving myself :) )
 - Cubes (2x2x2, 3x3x3, 4x4x4, 3x3x3 Mirror Cube, Megaminx)
 
 ### To Support me
