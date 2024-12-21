@@ -4,7 +4,7 @@ Im Yusuf, a 13 y.o. software developer :)
 ### Some of my hobbies are:
 - Robotics
 - Kinematics
-- Software Developing (mostly C++ and Python, but sometimes Java and "others")
+- Software Developing (mostly C++ and Python, but sometimes Java, Bash and "others")
 - Linux
 - Raspberry Pi's (idk why i put this here but i love raspberry pi's)
 - FPV Drones (i have no money to make one :( )
